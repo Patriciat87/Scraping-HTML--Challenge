@@ -13,5 +13,6 @@ Deliverable 1: Scrape titles and preview text from Mars news articles.
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 
-References:
+Cited Sources:
+Mars In a Minute: How Long is a Year on Mars. National Aeronautics and Space Administration, Pulication Date: October 11, 2023, https://plus.nasa.gov/video/mars-in-a-minute-how-long-is-a-year-on-mars/
 
